@@ -1,16 +1,16 @@
 {
     "user_info":
         {
-            "user": [ 
-                {
+            "user": {
+                
                 "name": "Perez",
                 "number": "+8801800000000",
                 "birthday": "DD MM YYYY",
                 "description": "........."
-                }
-            ],
+                
+            },
         
-            "users": [ 
+            "users": [
                 {
                 "name": "Perez",
                 "tagName": "Nombre" 
