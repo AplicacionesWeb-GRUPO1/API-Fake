@@ -1,12 +1,22 @@
 {
     "user_info":
         {
-            "user": {
+            "user1": {
+                
+                "name": "Juanita",
+                "number": "+8801800000000",
+                "birthday": "DD MM YYYY",
+                "description": ".........",
+                "role": "Client"
+                
+            },
+               "user2": {
                 
                 "name": "Perez",
                 "number": "+8801800000000",
                 "birthday": "DD MM YYYY",
-                "description": "........."
+                "description": ".........",
+                "role": "Expert"
                 
             },
         
