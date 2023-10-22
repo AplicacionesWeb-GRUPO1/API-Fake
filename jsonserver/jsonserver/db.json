@@ -1,14 +1,24 @@
 {
     "user_info":
         {
-            "user": {
+          "user1": {
                 
-                "name": "Perez",
-                "number": "+8801800000000",
-                "birthday": "DD MM YYYY",
-                "description": "........."
-                
-            },
+            "name": "Juanita Flores",
+            "number": "+8801800000000",
+            "birthday": "DD MM YYYY",
+            "description": ".........",
+            "profile_img": "https://gogeticon.net/files/1925428/fa0cbc2764f70113bf2fad3905933545.png",
+            "role": "Client"
+          },
+        
+          "user2": {    
+            "name": "Roberto Perez",
+            "number": "+8801800000000",
+            "birthday": "DD MM YYYY",
+            "description": ".........",
+            "profile_img": "https://gogeticon.net/files/1925428/fa0cbc2764f70113bf2fad3905933545.png",
+            "role": "Expert"
+          },
         
             "users": [
                 {
