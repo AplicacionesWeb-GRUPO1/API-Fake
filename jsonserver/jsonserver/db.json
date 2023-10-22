@@ -17,7 +17,17 @@
             "birthday": "DD MM YYYY",
             "description": ".........",
             "profile_img": "https://gogeticon.net/files/1925428/fa0cbc2764f70113bf2fad3905933545.png",
-            "role": "Expert"
+            "role": "Expert",
+            "work_img":[
+              "https://perucds.com/wp-content/uploads/2020/08/gasfiteria-img-1.jpg",
+              "https://perucds.com/wp-content/uploads/2020/08/gasfiteria-img-2.jpg",
+              "https://perucds.com/wp-content/uploads/2020/08/gasfiteria-img-3.jpg",
+              "https://perucds.com/wp-content/uploads/2020/08/gasfiteria-img-4.jpg",
+              "https://perucds.com/wp-content/uploads/2020/08/electricidad-img-1.jpg",
+              "hhttps://perucds.com/wp-content/uploads/2020/08/electricidad-img-2.jpg",
+              "https://perucds.com/wp-content/uploads/2020/08/electricidad-img-3.jpg",
+              "https://perucds.com/wp-content/uploads/2020/08/electricidad-img-4.jpg"
+            ]
           },
         
             "users": [
