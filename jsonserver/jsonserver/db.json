@@ -1,7 +1,7 @@
 {
     "user_info":
         {
-          "user": {
+          "user_client": {
             "name": "Juanita Flores",
             "number": "+8801800000000",
             "birthday": "DD MM YYYY",
@@ -10,7 +10,7 @@
             "role": "Client"
           },
         
-          "user2": {    
+          "user_expert": {    
             "name": "Roberto Perez",
             "number": "+8801800000000",
             "birthday": "DD MM YYYY",
