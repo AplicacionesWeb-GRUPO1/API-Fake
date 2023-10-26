@@ -195,8 +195,122 @@
                 "estadoTrabajo": "pendiente",
                 "foto": "https://media.discordapp.net/attachments/1166116334975852734/1166116379078950932/Ellipse_172_1.png?ex=65495182&is=6536dc82&hm=da6a6a6044b7a20aceee7807708d7af4d2bcfc9eb1436ec18d0d881816ab37b9&="
               }
-            ]
-
+            ],
+              "experts": [
+                {
+                  "id": 1,
+                  "name": "Juan Pérez",
+                  "profession": "Diseñador Web",
+                  "jobs_completed": 42,
+                  "review_count": 38,
+                  "available": true,
+                  "review_stars": 4.7,
+                  "profile_image": "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D"
+                },
+                {
+                  "id": 2,
+                  "name": "María González",
+                  "profession": "Plomero",
+                  "jobs_completed": 56,
+                  "review_count": 45,
+                  "available": false,
+                  "review_stars": 4.9,
+                  "profile_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1bpO0XDD8fbmRvnbnkCoQNFFoH3AqofVTg&usqp=CAU"
+                },
+                {
+                  "id": 3,
+                  "name": "John Murphy",
+                  "profession": "Gasfitero",
+                  "jobs_completed": 28,
+                  "review_count": 24,
+                  "available": false,
+                  "review_stars": 4.5,
+                  "profile_image": "https://www.elitesingles.co.uk/wp-content/uploads/sites/59/2019/11/2b_en_articleslide_sm2-350x264.jpg"
+                },
+                {
+                  "id": 4,
+                  "name": "Ana Martínez",
+                  "profession": "Escritora de Contenido",
+                  "jobs_completed": 34,
+                  "review_count": 30,
+                  "available": true,
+                  "review_stars": 3.8,
+                  "profile_image": "https://www.elitesingles.co.uk/wp-content/uploads/sites/59/2019/11/elite_singles_slide_6-350x264.png"
+                },
+                {
+                  "id": 5,
+                  "name": "John Smith",
+                  "profession": "Limpiador",
+                  "jobs_completed": 62,
+                  "review_count": 52,
+                  "available": false,
+                  "review_stars": 3.2,
+                  "profile_image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                },
+                {
+                  "id": 6,
+                  "name": "Emily Davis",
+                  "profession": "Tecnico de Impresoras",
+                  "jobs_completed": 47,
+                  "review_count": 40,
+                  "available": true,
+                  "review_stars": 4.1,
+                  "profile_image": "https://shotkit.com/wp-content/uploads/2021/06/cool-profile-pic-matheus-ferrero.jpeg"
+                }
+              ],
+            
+              "job_posts": [
+                {
+                  "id": 1,
+                  "title": "Diseño Gráfico para Sitio Web",
+                  "location": "123 Calle Principal, Ciudadville",
+                  "payment_offered": 200,
+                  "service_description": "Necesito un diseñador gráfico talentoso para crear visuales atractivos para nuestro sitio web. Debe ser experto en Adobe Creative Suite.",
+                  "service_image": "https://fitsmallbusiness.com/wp-content/uploads/2023/02/Screenshot_logomakr_home_decor_logo.jpg",
+                  "image_description": "Muestra de diseño de la SANDY",
+                  "status": "No completado"
+                },
+                {
+                  "id": 2,
+                  "title": "Reparar Grifo con Fuga",
+                  "location": "456 Avenida Elm, Pueblovilla",
+                  "payment_offered": 50,
+                  "service_description": "Se busca un fontanero hábil para reparar un grifo con fuga en nuestra cocina. Se necesita una reparación rápida.",
+                  "service_image": "https://static.vecteezy.com/system/resources/previews/019/587/806/non_2x/old-faucets-or-tap-water-are-damaged-causing-water-leaks-and-wasting-water-free-photo.jpg",
+                  "image_description": "Foto del grifo con fuga",
+                  "status": "No completado"
+                },
+                {
+                  "id": 3,
+                  "title": "Redacción de Contenido para Blog",
+                  "location": "En línea (Trabajo Remoto)",
+                  "payment_offered": 100,
+                  "service_description": "Necesito un redactor de contenido creativo para escribir entradas de blog atractivas sobre diversos temas. Debe tener buenas habilidades de investigación.",
+                  "service_image": "https://es-mirai.webs3.mirai.es/files/Blog-Hotel.png",
+                  "image_description": "Foto del articulo necesitado",
+                  "status": "No completado"
+                },
+                {
+                  "id": 4,
+                  "title": "Limpieza de Casa",
+                  "location": "789 Calle Roble, Suburbia",
+                  "payment_offered": 80,
+                  "service_description": "Se requiere un servicio de limpieza completo de la casa. Se proporcionan suministros de limpieza. Experiencia preferida.",
+                  "service_image": "https://i0.wp.com/gammaknife.com.ec/wp-content/uploads/2022/07/casa-desordenada.jpg?fit=917%2C480&ssl=1",
+                  "image_description": "Imagen de las habitaciones que necesitan limpieza",
+                  "status": "No completado"
+                },
+                {
+                  "id": 5,
+                  "title": "Solución de Problemas de Impresora",
+                  "location": "101 Calle Tecnológica, Tecnópolis",
+                  "payment_offered": 30,
+                  "service_description": "Necesito un técnico para solucionar y reparar nuestra impresora de oficina. No responde a los comandos de impresión.",
+                  "service_image": "https://www.reparacion-impresoras.com/wp-content/uploads/2019/02/impresora-en-estado-de-error.jpg",
+                  "image_description": "Imagen del mensaje de error de la impresora",
+                  "status": "No completado"
+                }
+              ]
     }
     
 
